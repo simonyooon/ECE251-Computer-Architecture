@@ -1,4 +1,4 @@
-# Comparch-Project-3
+# CompArch-Project-3
 **Project 3 - PEMDAS Calculator**
 
 *The program is currently not operational and will return an error message*
