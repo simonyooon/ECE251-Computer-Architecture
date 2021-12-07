@@ -1,4 +1,4 @@
-# Comparch-Project-1
+# CompArch-Project-1
 Project 1 - Concatenate Two Strings
 
 How to build the program on linux (with arm processor installed):
