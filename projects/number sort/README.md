@@ -1,4 +1,4 @@
-# Comparch-Project-2
+# CompArch-Project-2
 Project 2 - Sort a List of Numbers
 
 How to build the program on linux (with arm processor installed):
